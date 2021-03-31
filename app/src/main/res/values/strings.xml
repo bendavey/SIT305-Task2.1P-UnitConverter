@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="temp">Temp</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="blank">BLANK</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="kilogram">Kilogram</string>
+    <string name="gram">Grams</string>
+    <string name="ounce">Ounces (oz)</string>
+    <string name="pound">Pounds (lb)</string>
+    <string name="metre">Metre</string>
+    <string name="centimetre">Centimetre</string>
+    <string name="foot">Foot</string>
+    <string name="inch">Inch</string>
+    <string name="temp_button">Temp button</string>
+    <string name="weight_button">Weight button</string>
+    <string name="length_button">Length button</string>
+    <string name="enter_a_number_to_convert">Number to convert...</string>
+    <string name="converted_value">Displays a converted value</string>
+    <string-array name="selection_array">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+
+</resources>
